@@ -19,4 +19,8 @@ Evaluation Evidence:
 #Create the KaseiCoin Deployer Contract
 ![Deployer contract successful](https://user-images.githubusercontent.com/115195302/226146806-4f9ef81a-8bfc-4845-b71e-8b8e2548526f.png)
 
+#Testing accounts buy new tokens from the crowdsale
+![minting withdrawl from account](https://user-images.githubusercontent.com/115195302/226802469-d1a19340-ead3-4660-a0d5-479eda5dd0bd.png)
 
+#Checking supply of minted tokens plus balance of account
+![account balance after minting](https://user-images.githubusercontent.com/115195302/226802527-3c91fa48-1028-4077-a3fe-330a4a932842.png)
